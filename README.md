@@ -25,7 +25,7 @@ O projeto **Busca Países** é uma aplicação web que permite pesquisar informa
 ## 🖥️ Como Utilizar
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/repositorio.git
+   git clone https://github.com/RiquelmiDev/BuscaPaises.git
 
 ## 📁 Estrutura do Projeto
 ```bash
